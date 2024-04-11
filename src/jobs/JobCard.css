@@ -1,0 +1,19 @@
+.JobCard {
+  margin: 20px;
+  padding: 2px;
+  background-color: white;
+}
+
+.JobCard-header {
+  color: black;
+}
+
+.JobCard-bottom {
+  color: black;
+  margin-top: 10px;
+}
+
+
+.JobCard-text {
+  margin-bottom: 0px;
+}

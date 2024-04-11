@@ -1,0 +1,18 @@
+.SearchForm {
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.SearchForm-input {
+  background-color: white;
+  color: black;
+}
+
+.SearchForm-input::placeholder {
+  color: gray;
+}
+
+.SearchForm-input:focus {
+  background-color: white;
+  color: black;
+}

@@ -1,0 +1,26 @@
+.ProfilePage {
+  margin: auto;
+}
+
+.ProfilePage-input {
+  background-color: white;
+  color: black;
+}
+
+.ProfilePage-input::placeholder {
+  color: gray;
+}
+
+.ProfilePage-input:disabled {
+  background-color: rgba(255, 255, 255, 0.6);
+  color: black;
+}
+
+.ProfilePage-input:focus {
+  background-color: white;
+  color: black;
+}
+
+.ProfilePage-btn {
+  margin-top: 10px;
+}

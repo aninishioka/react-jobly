@@ -1,0 +1,21 @@
+.SignupPage {
+  margin: auto;
+}
+
+.SignupPage-input {
+  background-color: white;
+  color: black;
+}
+
+.SignupPage-input::placeholder {
+  color: gray;
+}
+
+.SignupPage-input:focus {
+  background-color: white;
+  color: black;
+}
+
+.SignupPage-btn {
+  margin-top: 10px;
+}

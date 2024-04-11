@@ -1,0 +1,21 @@
+.LoginPage {
+  margin: auto;
+}
+
+.LoginPage-input {
+  background-color: white;
+  color: black;
+}
+
+.LoginPage-input::placeholder {
+  color: gray;
+}
+
+.LoginPage-input:focus {
+  background-color: white;
+  color: black;
+}
+
+.LoginPage-btn {
+  margin-top: 10px;
+}
